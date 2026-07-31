@@ -13,7 +13,7 @@ st.set_page_config(
     layout="wide"
 )
 
-DATA_FILE = "arctic_ice_extent_심화_.csv"  # main.py와 같은 폴더에 위치한 데이터 파일
+DATA_FILE = "arctic_ice_extent(심화).csv"  # main.py와 같은 폴더에 위치한 데이터 파일
 
 
 @st.cache_data
